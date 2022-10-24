@@ -1,0 +1,105 @@
+{
+   "by": "woeid",
+   "valid_key": true,
+   "results": {
+     "temp": 26,
+     "date": "03/10/2022",
+     "time": "19:05",
+     "condition_code": "28",
+     "description": "Tempo nublado",
+     "currently": "noite",
+     "cid": "",
+     "city": "Betim, MG",
+     "img_id": "28n",
+     "humidity": 72,
+     "wind_speedy": "2.73 km/h",
+     "sunrise": "05:36 am",
+     "sunset": "05:55 pm",
+     "condition_slug": "cloudly_night",
+     "city_name": "Betim",
+     "forecast": [
+       {
+         "date": "03/10",
+         "weekday": "Seg",
+         "max": 31,
+         "min": 18,
+         "description": "Chuvas esparsas",
+         "condition": "rain"
+       },
+       {
+         "date": "04/10",
+         "weekday": "Ter",
+         "max": 31,
+         "min": 18,
+         "description": "Chuva",
+         "condition": "rain"
+       },
+       {
+         "date": "05/10",
+         "weekday": "Qua",
+         "max": 30,
+         "min": 18,
+         "description": "Chuvas esparsas",
+         "condition": "rain"
+       },
+       {
+         "date": "06/10",
+         "weekday": "Qui",
+         "max": 29,
+         "min": 18,
+         "description": "Chuvas esparsas",
+         "condition": "rain"
+       },
+       {
+         "date": "07/10",
+         "weekday": "Sex",
+         "max": 28,
+         "min": 19,
+         "description": "Chuvas esparsas",
+         "condition": "rain"
+       },
+       {
+         "date": "08/10",
+         "weekday": "Sáb",
+         "max": 32,
+         "min": 19,
+         "description": "Chuvas esparsas",
+         "condition": "rain"
+       },
+       {
+         "date": "09/10",
+         "weekday": "Dom",
+         "max": 22,
+         "min": 18,
+         "description": "Chuvas esparsas",
+         "condition": "rain"
+       },
+       {
+         "date": "10/10",
+         "weekday": "Seg",
+         "max": 22,
+         "min": 18,
+         "description": "Chuvas esparsas",
+         "condition": "rain"
+       },
+       {
+         "date": "11/10",
+         "weekday": "Ter",
+         "max": 24,
+         "min": 18,
+         "description": "Chuvas esparsas",
+         "condition": "rain"
+       },
+       {
+         "date": "12/10",
+         "weekday": "Qua",
+         "max": 24,
+         "min": 16,
+         "description": "Tempo nublado",
+         "condition": "cloudly_day"
+       }
+     ]
+   },
+   "execution_time": 0.0,
+   "from_cache": true
+ }
