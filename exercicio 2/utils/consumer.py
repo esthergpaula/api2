@@ -13,7 +13,7 @@ def getCurrenceValueOfMoney(types):
             pass
         return False,result
      else: 
-        return True,"Api fora do ar..."   
+        return True,"Api fora do ar"   
   except Exception as e:
      return True,e
 
